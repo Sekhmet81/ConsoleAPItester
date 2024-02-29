@@ -1,0 +1,17 @@
+C:\Users\Tommy\source\repos\ConsoleAPItester\bin\Debug\net8.0\ConsoleAPItester.exe
+C:\Users\Tommy\source\repos\ConsoleAPItester\bin\Debug\net8.0\ConsoleAPItester.deps.json
+C:\Users\Tommy\source\repos\ConsoleAPItester\bin\Debug\net8.0\ConsoleAPItester.runtimeconfig.json
+C:\Users\Tommy\source\repos\ConsoleAPItester\bin\Debug\net8.0\ConsoleAPItester.dll
+C:\Users\Tommy\source\repos\ConsoleAPItester\bin\Debug\net8.0\ConsoleAPItester.pdb
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.dll
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\refint\ConsoleAPItester.dll
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.pdb
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ref\ConsoleAPItester.dll
+C:\Users\Tommy\source\repos\ConsoleAPItester\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\ConsoleAPItester\obj\Debug\net8.0\ConsoleAPItester.csproj.CopyComplete
